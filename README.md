@@ -1,4 +1,4 @@
-# Monitoring water resources using Google Earth Engine (GEE) and Javascript
+# Monitoring water resources using Google Earth Engine (GEE) and JavaScript
 
 ## Description
 
