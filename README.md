@@ -1,4 +1,4 @@
-# Monitoring water resources using Google Earth Engine (GEE) and JavaScript
+# Monitoring Water Resources Using Remote Sensing
 
 ## Use and install this repository
 
