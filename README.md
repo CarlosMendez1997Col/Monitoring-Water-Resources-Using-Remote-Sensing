@@ -14,7 +14,7 @@ gh repo clone CarlosMendez1997Col/Model-and-forecasts-hydrological-and-energetic
 
 ## Description
 
-Repository builded in `Google Earth Engine (GEE)` and `Javascript`.
+Repository built in `Google Earth Engine (GEE)` and `Javascript`.
 
 Each section is described below:
 
